@@ -9,6 +9,9 @@
 	</parent>
 	<artifactId>server</artifactId>
 	<description>Spring Boot Cloud Config Server</description>
+	<properties>
+		<java.version>16</java.version>
+	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-server -->
 		<dependency>

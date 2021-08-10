@@ -9,6 +9,9 @@
 	</parent>
 	<artifactId>client</artifactId>
 	<description>Spring Cloud Config Client</description>
+	<properties>
+		<java.version>16</java.version>
+	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-config -->
 		<dependency>
