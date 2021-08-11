@@ -16,7 +16,7 @@
 	<name>spring-cloud-config-poc</name>
 	<description>Spring Cloud Config POC</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>11</java.version>
 		<cobertura.maven.plugin.version>2.7</cobertura.maven.plugin.version>
 	</properties>
 	<modules>
